@@ -1,3 +1,4 @@
+	* add a multi-threaded, pread()-based, disk I/O backend (pread_disk_io)
 	* move session_flags to session_params
 	* the entry class is now a standard variant type
 	* use std::string_view instead of boost counterpart
